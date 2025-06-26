@@ -6,6 +6,7 @@ import 'package:ee_commercre/feature/product/ui/screens/product_details_screen.d
 import 'package:ee_commercre/feature/product/ui/screens/product_list_screen.dart';
 import 'package:flutter/material.dart';
 
+
 class AppRoutes {
   static Route<dynamic> getroute(RouteSettings settings) {
     late final Widget screenwidget;
